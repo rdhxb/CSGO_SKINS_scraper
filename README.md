@@ -25,7 +25,7 @@ merges results, and calculates profitability differences.
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-org/CSGO_SKINS.git
+   git clone https://github.com/rdhxb/CSGO_SKINS_scraper.git
    cd CSGO_SKINS
    ```
 
