@@ -1,0 +1,740 @@
+Item Name,Item Price,Item Odds,Expected Value,Case Name
+Ursus Knife | Case Hardened,2056.53,0.014%,0.28791420000000006,Favor Box Case
+AK-47 | Inheritance,1130.26,0.005%,0.056513,Favor Box Case
+AK-47 | Inheritance,686.49,0.006%,0.0411894,Favor Box Case
+Desert Eagle | Printstream,490.22,0.006%,0.029413200000000004,Favor Box Case
+Desert Eagle | Printstream,244.99,0.006%,0.014699400000000001,Favor Box Case
+Glock-18 | AXIA,417.98,0.006%,0.025078800000000002,Favor Box Case
+Glock-18 | AXIA,297.11,0.006%,0.0178266,Favor Box Case
+AK-47 | Phantom Disruptor,226.67,0.006%,0.0136002,Favor Box Case
+AK-47 | Phantom Disruptor,44.06,0.015%,0.006608999999999999,Favor Box Case
+AK-47 | Phantom Disruptor,20.71,0.013%,0.0026923,Favor Box Case
+M4A1-S | Leaded Glass,182.83,0.006%,0.010969800000000002,Favor Box Case
+M4A1-S | Leaded Glass,43.55,0.015%,0.006532499999999999,Favor Box Case
+M4A1-S | Leaded Glass,28.35,0.013%,0.0036855,Favor Box Case
+MAC-10 | Neon Rider,89.17,0.006%,0.0053502,Favor Box Case
+MAC-10 | Neon Rider,52.79,0.015%,0.007918499999999998,Favor Box Case
+MAG-7 | Justice,84.0,0.006%,0.00504,Favor Box Case
+MAG-7 | Justice,29.48,0.013%,0.0038323999999999997,Favor Box Case
+MAG-7 | Justice,13.73,0.499%,0.0685127,Favor Box Case
+Five-SeveN | Heat Treated,64.43,0.015%,0.0096645,Favor Box Case
+Five-SeveN | Heat Treated,34.94,0.02%,0.006988,Favor Box Case
+Five-SeveN | Heat Treated,29.27,0.013%,0.0038050999999999996,Favor Box Case
+M4A4 | Spider Lily,55.31,0.015%,0.0082965,Favor Box Case
+M4A4 | Spider Lily,27.17,0.013%,0.0035321,Favor Box Case
+M4A4 | Spider Lily,19.45,0.013%,0.0025284999999999995,Favor Box Case
+P2000 | Royal Baroque,27.43,0.013%,0.0035658999999999995,Favor Box Case
+P2000 | Royal Baroque,20.87,0.013%,0.0027131,Favor Box Case
+P2000 | Royal Baroque,8.95,1.72%,0.15394,Favor Box Case
+SSG 08 | Blush Pour,26.75,0.013%,0.0034774999999999997,Favor Box Case
+SSG 08 | Blush Pour,22.09,0.013%,0.0028716999999999996,Favor Box Case
+SSG 08 | Blush Pour,9.24,1.72%,0.158928,Favor Box Case
+AUG | Aristocrat,18.14,0.1%,0.01814,Favor Box Case
+AUG | Aristocrat,8.19,1.72%,0.140868,Favor Box Case
+AUG | Aristocrat,3.7,2.794%,0.103378,Favor Box Case
+SCAR-20 | Enforcer,16.46,0.1%,0.016460000000000002,Favor Box Case
+SCAR-20 | Enforcer,5.75,2.796%,0.16077,Favor Box Case
+SCAR-20 | Enforcer,1.89,3.181%,0.06012089999999999,Favor Box Case
+P90 | Wave Breaker,15.29,0.1%,0.01529,Favor Box Case
+P90 | Wave Breaker,5.54,2.794%,0.1547876,Favor Box Case
+P90 | Wave Breaker,2.1,3.181%,0.066801,Favor Box Case
+UMP-45 | Moonrise,11.8,0.499%,0.058882,Favor Box Case
+UMP-45 | Moonrise,3.95,2.794%,0.110363,Favor Box Case
+UMP-45 | Moonrise,2.52,3.181%,0.0801612,Favor Box Case
+Galil AR | Signal,10.5,1.962%,0.20600999999999997,Favor Box Case
+Galil AR | Signal,5.0,2.794%,0.1397,Favor Box Case
+Galil AR | Signal,3.4,3.199%,0.10876599999999999,Favor Box Case
+FAMAS | Teardown,10.04,1.72%,0.17268799999999998,Favor Box Case
+FAMAS | Teardown,5.75,2.796%,0.16077,Favor Box Case
+FAMAS | Teardown,2.1,3.181%,0.066801,Favor Box Case
+MP7 | Cirrus,5.21,2.794%,0.14556739999999999,Favor Box Case
+MP7 | Cirrus,2.14,3.181%,0.0680734,Favor Box Case
+MP7 | Cirrus,1.51,3.181%,0.048033099999999995,Favor Box Case
+Nova | Turquoise Pour,2.86,3.181%,0.09097659999999999,Favor Box Case
+Nova | Turquoise Pour,2.23,3.181%,0.0709363,Favor Box Case
+Nova | Turquoise Pour,1.18,3.181%,0.037535799999999994,Favor Box Case
+SG 553 | Aloha,2.06,3.181%,0.06552859999999999,Favor Box Case
+SG 553 | Aloha,0.71,3.181%,0.022585099999999997,Favor Box Case
+SG 553 | Aloha,0.5,3.181%,0.015905,Favor Box Case
+MP9 | Nexus,2.06,3.181%,0.06552859999999999,Favor Box Case
+MP9 | Nexus,0.63,3.181%,0.0200403,Favor Box Case
+MP9 | Nexus,0.25,3.181%,0.0079525,Favor Box Case
+PP-Bizon | Night Riot,1.6,3.181%,0.050896,Favor Box Case
+PP-Bizon | Night Riot,0.55,3.181%,0.0174955,Favor Box Case
+PP-Bizon | Night Riot,0.38,3.181%,0.0120878,Favor Box Case
+MP5-SD | Liquidation,1.64,3.181%,0.0521684,Favor Box Case
+MP5-SD | Liquidation,0.5,3.181%,0.015905,Favor Box Case
+MP5-SD | Liquidation,0.21,3.181%,0.0066801,Favor Box Case
+Bayonet | Marble Fade,3813.68,0.007%,0.2669576,Surprise Party Case
+AK-47 | Vulcan,3267.98,0.002%,0.0653596,Surprise Party Case
+AK-47 | Vulcan,1497.17,0.005%,0.07485850000000001,Surprise Party Case
+USP-S | Kill Confirmed,1171.97,0.006%,0.0703182,Surprise Party Case
+USP-S | Kill Confirmed,508.07,0.006%,0.0304842,Surprise Party Case
+USP-S | Kill Confirmed,319.91,0.006%,0.019194600000000003,Surprise Party Case
+M4A1-S | Cyrex,526.43,0.006%,0.0315858,Surprise Party Case
+M4A1-S | Cyrex,224.53,0.006%,0.0134718,Surprise Party Case
+Glock-18 | Bullet Queen,324.91,0.006%,0.0194946,Surprise Party Case
+Glock-18 | Bullet Queen,114.58,0.025%,0.028645,Surprise Party Case
+Nova | Hyper Beast,237.38,0.006%,0.0142428,Surprise Party Case
+Nova | Hyper Beast,138.35,0.025%,0.0345875,Surprise Party Case
+Five-SeveN | Angry Mob,224.62,0.006%,0.0134772,Surprise Party Case
+Five-SeveN | Angry Mob,45.49,0.06%,0.027294,Surprise Party Case
+MAC-10 | Derailment,81.31,0.024%,0.0195144,Surprise Party Case
+MAC-10 | Derailment,57.46,0.021%,0.0120666,Surprise Party Case
+SG 553 | Integrale,102.19,0.025%,0.0255475,Surprise Party Case
+SG 553 | Integrale,42.55,0.06%,0.025529999999999997,Surprise Party Case
+SG 553 | Integrale,19.24,1.992%,0.38326079999999996,Surprise Party Case
+MP9 | Starlight Protector,79.67,0.021%,0.0167307,Surprise Party Case
+MP9 | Starlight Protector,32.21,0.25%,0.080525,Surprise Party Case
+AWP | POP AWP,75.22,0.021%,0.0157962,Surprise Party Case
+AWP | POP AWP,39.86,0.06%,0.023915999999999996,Surprise Party Case
+AWP | POP AWP,34.19,0.25%,0.085475,Surprise Party Case
+M4A4 | In Living Color,73.46,0.021%,0.015426599999999999,Surprise Party Case
+M4A4 | In Living Color,38.22,0.06%,0.022931999999999998,Surprise Party Case
+M4A4 | In Living Color,33.77,0.25%,0.08442500000000001,Surprise Party Case
+M4A4 | In Living Color,30.07,0.25%,0.075175,Surprise Party Case
+P2000 | Wicked Sick,63.55,0.021%,0.0133455,Surprise Party Case
+P2000 | Wicked Sick,20.92,1.992%,0.41672640000000005,Surprise Party Case
+P2000 | Wicked Sick,8.23,3.5%,0.28805000000000003,Surprise Party Case
+UMP-45 | Wild Child,62.54,0.021%,0.0131334,Surprise Party Case
+UMP-45 | Wild Child,20.92,1.992%,0.41672640000000005,Surprise Party Case
+UMP-45 | Wild Child,8.19,3.5%,0.28665,Surprise Party Case
+MP7 | Bloodsport,36.88,0.06%,0.022128,Surprise Party Case
+MP7 | Bloodsport,15.88,2.085%,0.331098,Surprise Party Case
+MP7 | Bloodsport,9.37,2.04%,0.19114799999999998,Surprise Party Case
+XM1014 | XOXO,22.68,1.992%,0.4517856,Surprise Party Case
+XM1014 | XOXO,8.74,3.5%,0.30590000000000006,Surprise Party Case
+XM1014 | XOXO,8.61,3.5%,0.30135,Surprise Party Case
+MP5-SD | Acid Wash,12.18,2.04%,0.248472,Surprise Party Case
+MP5-SD | Acid Wash,7.6,3.5%,0.266,Surprise Party Case
+MP5-SD | Acid Wash,7.39,3.5%,0.25865,Surprise Party Case
+Sawed-Off | Analog Input,12.18,2.04%,0.248472,Surprise Party Case
+Sawed-Off | Analog Input,6.59,3.5%,0.23065000000000002,Surprise Party Case
+Sawed-Off | Analog Input,3.91,3.5%,0.13685000000000003,Surprise Party Case
+CZ75-Auto | Tacticat,12.85,2.04%,0.26214,Surprise Party Case
+CZ75-Auto | Tacticat,6.97,3.5%,0.24395000000000003,Surprise Party Case
+CZ75-Auto | Tacticat,2.69,3.5%,0.09415000000000001,Surprise Party Case
+G3SG1 | Stinger,12.73,2.04%,0.25969200000000003,Surprise Party Case
+G3SG1 | Stinger,4.83,3.5%,0.16905,Surprise Party Case
+G3SG1 | Stinger,2.14,3.5%,0.07490000000000001,Surprise Party Case
+PP-Bizon | Osiris,10.25,2.04%,0.2091,Surprise Party Case
+PP-Bizon | Osiris,5.42,3.5%,0.1897,Surprise Party Case
+PP-Bizon | Osiris,3.78,3.5%,0.1323,Surprise Party Case
+Galil AR | Signal,10.5,2.04%,0.2142,Surprise Party Case
+Galil AR | Signal,5.0,3.5%,0.17500000000000002,Surprise Party Case
+Galil AR | Signal,3.4,3.5%,0.11900000000000001,Surprise Party Case
+P90 | Teardown,11.26,2.04%,0.22970400000000002,Surprise Party Case
+P90 | Teardown,5.96,3.5%,0.2086,Surprise Party Case
+P90 | Teardown,2.44,3.5%,0.0854,Surprise Party Case
+MAG-7 | Monster Call,10.71,2.04%,0.21848400000000004,Surprise Party Case
+MAG-7 | Monster Call,3.65,3.5%,0.12775,Surprise Party Case
+MAG-7 | Monster Call,1.68,3.5%,0.058800000000000005,Surprise Party Case
+Talon Knife | Fade,8301.51,0.01%,0.8301510000000001,Birthday Cake Case
+Sport Gloves | Vice,7006.99,0.007%,0.4904893,Birthday Cake Case
+M4A1-S | Fade,2691.44,0.008%,0.2153152,Birthday Cake Case
+AK-47 | Neon Rider,1229.3,0.008%,0.098344,Birthday Cake Case
+AK-47 | Neon Rider,472.08,0.008%,0.0377664,Birthday Cake Case
+Glock-18 | Neo-Noir,1083.31,0.008%,0.0866648,Birthday Cake Case
+Glock-18 | Neo-Noir,245.49,0.025%,0.0613725,Birthday Cake Case
+M4A4 | Temukau,608.5,0.008%,0.04868,Birthday Cake Case
+M4A4 | Temukau,208.57,0.025%,0.0521425,Birthday Cake Case
+AWP | Crakow!,407.19,0.008%,0.032575200000000006,Birthday Cake Case
+Galil AR | Sugar Rush,371.11,0.008%,0.029688800000000005,Birthday Cake Case
+Galil AR | Sugar Rush,255.19,0.025%,0.06379750000000001,Birthday Cake Case
+AK-47 | Point Disarray,180.43,0.15%,0.270645,Birthday Cake Case
+AK-47 | Point Disarray,61.28,0.25%,0.1532,Birthday Cake Case
+MAC-10 | Neon Rider,89.17,0.15%,0.133755,Birthday Cake Case
+MAC-10 | Neon Rider,52.79,1.709%,0.9021811000000001,Birthday Cake Case
+MP9 | Mount Fuji,77.91,0.15%,0.116865,Birthday Cake Case
+MP9 | Mount Fuji,51.91,1.709%,0.8871419,Birthday Cake Case
+MP9 | Mount Fuji,28.94,1.985%,0.574459,Birthday Cake Case
+P90 | Attack Vector,68.21,0.25%,0.17052499999999998,Birthday Cake Case
+P90 | Attack Vector,43.26,1.709%,0.7393134,Birthday Cake Case
+P90 | Attack Vector,28.73,1.985%,0.5702905,Birthday Cake Case
+AUG | Death by Puppy,65.1,0.25%,0.16274999999999998,Birthday Cake Case
+AUG | Death by Puppy,34.19,1.992%,0.6810647999999999,Birthday Cake Case
+AUG | Death by Puppy,29.36,1.985%,0.582796,Birthday Cake Case
+UMP-45 | Momentum,57.25,0.25%,0.143125,Birthday Cake Case
+UMP-45 | Momentum,30.37,1.985%,0.6028445,Birthday Cake Case
+UMP-45 | Momentum,20.41,1.985%,0.4051385,Birthday Cake Case
+Sawed-Off | Wasteland Princess,52.92,1.709%,0.9044028000000001,Birthday Cake Case
+Sawed-Off | Wasteland Princess,27.09,1.985%,0.5377365,Birthday Cake Case
+Sawed-Off | Wasteland Princess,15.12,2.5%,0.378,Birthday Cake Case
+Sawed-Off | Wasteland Princess,12.6,2.5%,0.315,Birthday Cake Case
+Galil AR | Rocket Pop,47.88,1.709%,0.8182692000000001,Birthday Cake Case
+Galil AR | Rocket Pop,12.85,2.5%,0.32125000000000004,Birthday Cake Case
+Galil AR | Rocket Pop,5.63,2.5%,0.14075000000000001,Birthday Cake Case
+MAG-7 | BI83 Spectrum,24.28,1.985%,0.481958,Birthday Cake Case
+MAG-7 | BI83 Spectrum,17.47,2.5%,0.43674999999999997,Birthday Cake Case
+MAG-7 | BI83 Spectrum,8.27,2.5%,0.20675,Birthday Cake Case
+MAG-7 | BI83 Spectrum,8.06,2.5%,0.2015,Birthday Cake Case
+P2000 | Wicked Sick,20.92,1.985%,0.415262,Birthday Cake Case
+P2000 | Wicked Sick,8.23,2.5%,0.20575000000000002,Birthday Cake Case
+P2000 | Wicked Sick,6.01,2.5%,0.15025,Birthday Cake Case
+P2000 | Wicked Sick,5.92,2.5%,0.148,Birthday Cake Case
+Desert Eagle | Trigger Discipline,18.73,1.985%,0.3717905,Birthday Cake Case
+Desert Eagle | Trigger Discipline,8.02,2.5%,0.2005,Birthday Cake Case
+Desert Eagle | Trigger Discipline,2.98,2.5%,0.0745,Birthday Cake Case
+SSG 08 | Fever Dream,16.97,2.5%,0.42425,Birthday Cake Case
+SSG 08 | Fever Dream,8.57,2.5%,0.21425000000000002,Birthday Cake Case
+SSG 08 | Fever Dream,2.98,2.5%,0.0745,Birthday Cake Case
+CZ75-Auto | Tacticat,12.85,2.5%,0.32125000000000004,Birthday Cake Case
+CZ75-Auto | Tacticat,6.97,2.5%,0.17425000000000002,Birthday Cake Case
+CZ75-Auto | Tacticat,2.81,2.5%,0.07025,Birthday Cake Case
+CZ75-Auto | Tacticat,2.69,2.5%,0.06725,Birthday Cake Case
+SCAR-20 | Wild Berry,10.37,2.5%,0.25925,Birthday Cake Case
+SCAR-20 | Wild Berry,6.47,2.5%,0.16175,Birthday Cake Case
+SCAR-20 | Wild Berry,4.07,2.5%,0.10175000000000001,Birthday Cake Case
+FAMAS | Teardown,10.04,2.5%,0.251,Birthday Cake Case
+FAMAS | Teardown,5.75,2.5%,0.14375000000000002,Birthday Cake Case
+FAMAS | Teardown,2.1,2.5%,0.052500000000000005,Birthday Cake Case
+M249 | Downtown,8.19,2.5%,0.20475,Birthday Cake Case
+M249 | Downtown,3.95,2.5%,0.09875,Birthday Cake Case
+M249 | Downtown,1.85,2.5%,0.046250000000000006,Birthday Cake Case
+★ Rare Special Item ★,23464.31,0.001%,0.23464310000000002,Event Pinata Case
+★ Rare Special Item ★,20545.9,0.001%,0.20545900000000003,Event Pinata Case
+★ Rare Special Item ★,17264.02,0.001%,0.17264020000000002,Event Pinata Case
+★ Rare Special Item ★,11243.27,0.001%,0.11243270000000001,Event Pinata Case
+★ Rare Special Item ★,6777.5,0.001%,0.067775,Event Pinata Case
+★ Rare Special Item ★,5685.08,0.001%,0.05685080000000001,Event Pinata Case
+★ Rare Special Item ★,5215.1,0.001%,0.05215100000000001,Event Pinata Case
+★ Rare Special Item ★,5199.89,0.001%,0.05199890000000001,Event Pinata Case
+★ Rare Special Item ★,1923.64,0.045%,0.865638,Event Pinata Case
+Glock-18 | Fade,9145.37,0.001%,0.09145370000000001,Event Pinata Case
+AWP | CMYK,3463.91,0.001%,0.0346391,Event Pinata Case
+AWP | CMYK,1627.79,0.045%,0.7325054999999999,Event Pinata Case
+M4A1-S | Player Two,1011.28,0.134%,1.3551152,Event Pinata Case
+M4A1-S | Player Two,578.59,0.909%,5.259383100000001,Event Pinata Case
+M4A1-S | Player Two,281.74,0.333%,0.9381942000000001,Event Pinata Case
+Desert Eagle | Ocean Drive,924.8,0.138%,1.276224,Event Pinata Case
+Desert Eagle | Ocean Drive,676.87,0.909%,6.152748300000001,Event Pinata Case
+Desert Eagle | Ocean Drive,237.51,0.333%,0.7909083,Event Pinata Case
+Five-SeveN | Hyper Beast,789.68,0.166%,1.3108688,Event Pinata Case
+Five-SeveN | Hyper Beast,296.94,0.335%,0.994749,Event Pinata Case
+Five-SeveN | Hyper Beast,185.85,1.659%,3.0832515,Event Pinata Case
+Galil AR | Rainbow Spoon,357.29,1.159%,4.1409911,Event Pinata Case
+Galil AR | Rainbow Spoon,279.89,0.333%,0.9320337,Event Pinata Case
+P90 | Death by Kitty,305.97,0.333%,1.0188801,Event Pinata Case
+Nova | Hyper Beast,237.38,0.333%,0.7904754,Event Pinata Case
+Nova | Hyper Beast,138.35,2.707%,3.7451344999999994,Event Pinata Case
+SSG 08 | Turbo Peek,169.6,1.659%,2.813664,Event Pinata Case
+SSG 08 | Turbo Peek,87.78,0.94%,0.8251319999999999,Event Pinata Case
+SSG 08 | Turbo Peek,54.89,2.105%,1.1554345,Event Pinata Case
+SSG 08 | Turbo Peek,51.41,2.105%,1.0821805,Event Pinata Case
+MAC-10 | Disco Tech,102.69,0.94%,0.9652859999999999,Event Pinata Case
+MAC-10 | Disco Tech,90.01,0.94%,0.8460939999999999,Event Pinata Case
+MAC-10 | Disco Tech,35.24,2.105%,0.741802,Event Pinata Case
+MP9 | Starlight Protector,98.28,0.94%,0.9238319999999999,Event Pinata Case
+MP9 | Starlight Protector,79.67,0.94%,0.748898,Event Pinata Case
+MP9 | Starlight Protector,43.22,2.105%,0.909781,Event Pinata Case
+MP9 | Starlight Protector,32.21,2.105%,0.6780205,Event Pinata Case
+AUG | Momentum,97.9,0.94%,0.92026,Event Pinata Case
+AUG | Momentum,74.8,0.94%,0.7031199999999999,Event Pinata Case
+AUG | Momentum,30.74,2.105%,0.6470769999999999,Event Pinata Case
+XM1014 | XOXO,57.71,2.105%,1.2147955,Event Pinata Case
+XM1014 | XOXO,55.48,2.105%,1.167854,Event Pinata Case
+AK-47 | Nightwish,82.57,0.94%,0.7761579999999998,Event Pinata Case
+AK-47 | Nightwish,40.03,2.105%,0.8426315,Event Pinata Case
+AK-47 | Nightwish,31.33,2.105%,0.6594964999999999,Event Pinata Case
+AK-47 | Nightwish,28.52,2.105%,0.6003459999999999,Event Pinata Case
+SCAR-20 | Cardiac,81.65,0.94%,0.7675099999999999,Event Pinata Case
+SCAR-20 | Cardiac,41.75,2.105%,0.8788374999999999,Event Pinata Case
+SCAR-20 | Cardiac,22.64,2.105%,0.476572,Event Pinata Case
+M4A4 | In Living Color,73.46,2.115%,1.553679,Event Pinata Case
+M4A4 | In Living Color,38.22,2.105%,0.804531,Event Pinata Case
+M4A4 | In Living Color,33.77,2.105%,0.7108585000000001,Event Pinata Case
+M4A4 | In Living Color,30.07,2.105%,0.6329735,Event Pinata Case
+MP5-SD | Phosphor,58.93,2.105%,1.2404765,Event Pinata Case
+MP5-SD | Phosphor,31.46,2.105%,0.662233,Event Pinata Case
+MP5-SD | Phosphor,24.32,2.105%,0.511936,Event Pinata Case
+MP5-SD | Phosphor,19.19,2.105%,0.4039495,Event Pinata Case
+Galil AR | Chromatic Aberration,63.5,2.105%,1.336675,Event Pinata Case
+Galil AR | Chromatic Aberration,26.42,2.105%,0.556141,Event Pinata Case
+Galil AR | Chromatic Aberration,12.73,2.105%,0.2679665,Event Pinata Case
+P250 | Visions,58.72,2.105%,1.236056,Event Pinata Case
+P250 | Visions,27.3,2.105%,0.574665,Event Pinata Case
+P250 | Visions,13.9,2.105%,0.292595,Event Pinata Case
+SG 553 | Pulse,48.38,2.105%,1.018399,Event Pinata Case
+SG 553 | Pulse,22.43,2.105%,0.4721515,Event Pinata Case
+UMP-45 | Wild Child,62.54,2.105%,1.3164669999999998,Event Pinata Case
+UMP-45 | Wild Child,40.03,2.105%,0.8426315,Event Pinata Case
+UMP-45 | Wild Child,20.92,2.105%,0.44036600000000004,Event Pinata Case
+UMP-45 | Wild Child,8.19,2.105%,0.17239949999999998,Event Pinata Case
+MP7 | Neon Ply,38.77,2.105%,0.8161085,Event Pinata Case
+MP7 | Neon Ply,21.0,2.105%,0.44205,Event Pinata Case
+MP7 | Neon Ply,8.36,2.105%,0.175978,Event Pinata Case
+FAMAS | Bad Trip,27.97,2.105%,0.5887684999999999,Event Pinata Case
+FAMAS | Bad Trip,13.57,2.105%,0.28564849999999997,Event Pinata Case
+AWP | Dragon Lore,73907.57,0.002%,1.4781514000000002,Golden Era Case
+★ Rare Special Item ★,104741.99,0.005%,5.2370995,Golden Era Case
+★ Rare Special Item ★,94818.57,0.002%,1.8963714000000003,Golden Era Case
+★ Rare Special Item ★,87247.99,0.002%,1.7449598000000002,Golden Era Case
+★ Rare Special Item ★,45496.71,0.003%,1.3649013,Golden Era Case
+★ Rare Special Item ★,41317.75,0.003%,1.2395325,Golden Era Case
+★ Rare Special Item ★,25404.2,0.003%,0.7621260000000001,Golden Era Case
+★ Rare Special Item ★,24675.67,0.003%,0.7402700999999999,Golden Era Case
+★ Rare Special Item ★,23464.31,0.003%,0.7039293000000001,Golden Era Case
+★ Rare Special Item ★,21392.36,0.003%,0.6417708000000001,Golden Era Case
+★ Rare Special Item ★,18153.07,0.003%,0.5445921,Golden Era Case
+★ Rare Special Item ★,13956.1,0.003%,0.418683,Golden Era Case
+★ Rare Special Item ★,13947.15,0.003%,0.4184145,Golden Era Case
+★ Rare Special Item ★,11153.65,0.003%,0.3346095,Golden Era Case
+AK-47 | Gold Arabesque,25560.53,0.003%,0.7668159,Golden Era Case
+M4A1-S | Knight,21019.61,0.003%,0.6305883,Golden Era Case
+Desert Eagle | Blaze,4530.83,0.003%,0.1359249,Golden Era Case
+M4A1-S | Printstream,4774.43,0.003%,0.14323290000000002,Golden Era Case
+M4A1-S | Printstream,3952.07,0.003%,0.1185621,Golden Era Case
+M4A1-S | Printstream,2331.08,0.015%,0.349662,Golden Era Case
+M4A1-S | Printstream,1583.74,0.05%,0.7918700000000001,Golden Era Case
+M4A4 | Daybreak,3088.18,0.015%,0.46322699999999994,Golden Era Case
+USP-S | Kill Confirmed,3748.71,0.015%,0.5623064999999999,Golden Era Case
+USP-S | Kill Confirmed,1949.39,0.015%,0.2924085,Golden Era Case
+AK-47 | Nouveau Rouge,1991.35,0.015%,0.2987025,Golden Era Case
+AK-47 | Nouveau Rouge,920.22,0.05%,0.46011,Golden Era Case
+AK-47 | Nouveau Rouge,417.69,1.784%,7.451589600000001,Golden Era Case
+AK-47 | Nouveau Rouge,135.11,1.794%,2.4238734,Golden Era Case
+AK-47 | Nouveau Rouge,126.55,1.794%,2.2703070000000003,Golden Era Case
+Glock-18 | Neo-Noir,1430.56,0.05%,0.71528,Golden Era Case
+Glock-18 | Neo-Noir,1083.31,0.15%,1.624965,Golden Era Case
+Glock-18 | Neo-Noir,501.98,1.784%,8.9553232,Golden Era Case
+Five-SeveN | Hyper Beast,789.68,0.15%,1.18452,Golden Era Case
+Five-SeveN | Hyper Beast,296.94,2.04%,6.057576,Golden Era Case
+Five-SeveN | Hyper Beast,185.85,1.828%,3.397338,Golden Era Case
+Five-SeveN | Hyper Beast,181.86,1.794%,3.2625684000000006,Golden Era Case
+AUG | Sand Storm,495.1,1.784%,8.832584,Golden Era Case
+AUG | Sand Storm,400.05,1.784%,7.1368920000000005,Golden Era Case
+Galil AR | Rainbow Spoon,357.29,2.139%,7.6424331,Golden Era Case
+Galil AR | Rainbow Spoon,279.89,2.04%,5.7097560000000005,Golden Era Case
+P250 | Apep's Curse,467.42,1.784%,8.338772800000001,Golden Era Case
+P250 | Apep's Curse,271.11,2.04%,5.530644000000001,Golden Era Case
+P250 | Apep's Curse,163.63,1.794%,2.9355222000000003,Golden Era Case
+AWP | Elite Build,301.06,2.04%,6.141624,Golden Era Case
+AWP | Elite Build,185.09,1.794%,3.3205146,Golden Era Case
+AWP | Elite Build,141.67,1.794%,2.5415598,Golden Era Case
+AWP | Elite Build,111.43,1.794%,1.9990542000000002,Golden Era Case
+AWP | Elite Build,93.2,1.794%,1.6720080000000002,Golden Era Case
+P2000 | Fire Elemental,235.16,2.04%,4.797264,Golden Era Case
+P2000 | Fire Elemental,82.61,1.794%,1.4820234,Golden Era Case
+P2000 | Fire Elemental,54.64,1.794%,0.9802416,Golden Era Case
+SG 553 | Colony IV,231.76,2.04%,4.7279040000000006,Golden Era Case
+SG 553 | Colony IV,113.57,1.794%,2.0374458,Golden Era Case
+SG 553 | Colony IV,53.84,1.794%,0.9658896000000001,Golden Era Case
+SG 553 | Colony IV,37.51,1.794%,0.6729294,Golden Era Case
+M4A1-S | Leaded Glass,224.15,2.04%,4.572660000000001,Golden Era Case
+M4A1-S | Leaded Glass,182.83,2.04%,3.7297320000000007,Golden Era Case
+M4A1-S | Leaded Glass,106.22,1.794%,1.9055868,Golden Era Case
+M4A1-S | Leaded Glass,43.55,1.794%,0.781287,Golden Era Case
+M4A1-S | Leaded Glass,28.35,1.794%,0.508599,Golden Era Case
+MP7 | Nemesis,203.7,2.04%,4.15548,Golden Era Case
+MP7 | Nemesis,97.9,1.794%,1.7563260000000003,Golden Era Case
+MP7 | Nemesis,42.17,1.794%,0.7565298,Golden Era Case
+MP7 | Nemesis,36.67,1.794%,0.6578598000000001,Golden Era Case
+FAMAS | Commemoration,173.17,1.794%,3.1066698,Golden Era Case
+FAMAS | Commemoration,137.68,1.794%,2.4699792000000005,Golden Era Case
+FAMAS | Commemoration,94.16,1.794%,1.6892304,Golden Era Case
+FAMAS | Commemoration,53.26,1.794%,0.9554844,Golden Era Case
+FAMAS | Commemoration,37.67,1.794%,0.6757998000000001,Golden Era Case
+M4A4 | Sheet Lightning,168.92,1.794%,3.0304248,Golden Era Case
+M4A4 | Sheet Lightning,110.25,1.794%,1.9778850000000001,Golden Era Case
+M4A4 | Sheet Lightning,31.37,1.794%,0.5627778000000001,Golden Era Case
+MAC-10 | Disco Tech,102.69,1.794%,1.8422586,Golden Era Case
+MAC-10 | Disco Tech,90.01,1.794%,1.6147794000000002,Golden Era Case
+MAC-10 | Disco Tech,41.83,1.794%,0.7504302,Golden Era Case
+MAC-10 | Disco Tech,35.24,1.794%,0.6322056,Golden Era Case
+MP9 | Starlight Protector,98.28,1.794%,1.7631432,Golden Era Case
+MP9 | Starlight Protector,79.67,1.794%,1.4292798000000002,Golden Era Case
+MP9 | Starlight Protector,32.21,1.794%,0.5778474,Golden Era Case
+CZ75-Auto | Yellow Jacket,99.75,1.794%,1.7895150000000002,Golden Era Case
+CZ75-Auto | Yellow Jacket,48.89,1.794%,0.8770866,Golden Era Case
+CZ75-Auto | Yellow Jacket,26.42,1.794%,0.4739748000000001,Golden Era Case
+CZ75-Auto | Yellow Jacket,24.11,1.794%,0.4325334,Golden Era Case
+AK-47 | Aquamarine Revenge,208.11,0.002%,0.0041622000000000004,Daily Case
+AWP | Hyper Beast,145.24,0.001%,0.0014524000000000002,Daily Case
+M4A1-S | Cyrex,139.44,0.001%,0.0013944,Daily Case
+M4A1-S | Cyrex,133.9,0.001%,0.0013390000000000001,Daily Case
+M4A1-S | Hyper Beast,127.93,0.001%,0.0012793000000000001,Daily Case
+AK-47 | Point Disarray,61.28,0.002%,0.0012256,Daily Case
+M4A1-S | Leaded Glass,43.55,0.002%,0.000871,Daily Case
+M4A1-S | Leaded Glass,28.35,0.002%,0.0005670000000000001,Daily Case
+Glock-18 | Water Elemental,45.78,0.002%,0.0009156000000000001,Daily Case
+Glock-18 | Water Elemental,39.52,0.002%,0.0007904000000000001,Daily Case
+Glock-18 | Water Elemental,25.96,0.002%,0.0005192,Daily Case
+Five-SeveN | Violent Daimyo,25.58,0.002%,0.0005116,Daily Case
+Five-SeveN | Violent Daimyo,9.79,0.002%,0.0001958,Daily Case
+Five-SeveN | Violent Daimyo,8.78,0.002%,0.0001756,Daily Case
+Five-SeveN | Violent Daimyo,5.54,0.002%,0.00011080000000000001,Daily Case
+Five-SeveN | Violent Daimyo,4.24,0.002%,8.480000000000001e-05,Daily Case
+Five-SeveN | Violent Daimyo,2.86,0.012%,0.0003432,Daily Case
+Five-SeveN | Violent Daimyo,2.02,0.012%,0.0002424,Daily Case
+Glock-18 | Weasel,22.72,0.002%,0.00045440000000000004,Daily Case
+Glock-18 | Weasel,18.1,0.002%,0.00036200000000000007,Daily Case
+Glock-18 | Weasel,6.26,0.002%,0.0001252,Daily Case
+Glock-18 | Weasel,5.21,0.002%,0.00010420000000000001,Daily Case
+Glock-18 | Weasel,5.04,0.002%,0.00010080000000000001,Daily Case
+Glock-18 | Weasel,2.18,0.014%,0.00030520000000000005,Daily Case
+Glock-18 | Weasel,2.06,0.012%,0.0002472,Daily Case
+SG 553 | Aloha,3.91,0.002%,7.82e-05,Daily Case
+SG 553 | Aloha,2.06,0.1%,0.00206,Daily Case
+SG 553 | Aloha,2.02,0.1%,0.00202,Daily Case
+SG 553 | Aloha,0.67,0.1%,0.00067,Daily Case
+SG 553 | Aloha,0.5,4.494%,0.02247,Daily Case
+P90 | Freight,1.6,0.1%,0.0016,Daily Case
+P90 | Freight,0.21,0.744%,0.0015623999999999998,Daily Case
+Galil AR | Cold Fusion,0.29,0.744%,0.0021575999999999995,Daily Case
+Five-SeveN | Coolant,0.29,3.01%,0.008728999999999999,Daily Case
+PP-Bizon | Runic,0.29,3.01%,0.008728999999999999,Daily Case
+PP-Bizon | Runic,0.21,0.744%,0.0015623999999999998,Daily Case
+PP-Bizon | Runic,0.21,0.744%,0.0015623999999999998,Daily Case
+MP5-SD | Necro Jr.,0.21,3.01%,0.006320999999999999,Daily Case
+SCAR-20 | Poultrygeist,0.21,3.01%,0.006320999999999999,Daily Case
+Nova | Sand Dune,0.08,40%,0.032,Daily Case
+G3SG1 | Desert Storm,0.08,40%,0.032,Daily Case
+Ursus Knife | Case Hardened,2056.53,0.011%,0.2262183,Favor Box Case Boosted
+AK-47 | Inheritance,1130.26,0.011%,0.12432859999999998,Favor Box Case Boosted
+AK-47 | Inheritance,686.49,0.011%,0.0755139,Favor Box Case Boosted
+Desert Eagle | Printstream,490.22,0.011%,0.0539242,Favor Box Case Boosted
+Desert Eagle | Printstream,244.99,0.011%,0.026948899999999998,Favor Box Case Boosted
+Glock-18 | AXIA,417.98,0.011%,0.0459778,Favor Box Case Boosted
+Glock-18 | AXIA,297.11,0.011%,0.0326821,Favor Box Case Boosted
+AK-47 | Phantom Disruptor,226.67,0.011%,0.024933699999999996,Favor Box Case Boosted
+AK-47 | Phantom Disruptor,44.06,0.04%,0.017624,Favor Box Case Boosted
+AK-47 | Phantom Disruptor,20.71,1.044%,0.2162124,Favor Box Case Boosted
+M4A1-S | Leaded Glass,182.83,0.011%,0.0201113,Favor Box Case Boosted
+M4A1-S | Leaded Glass,43.55,0.04%,0.017419999999999998,Favor Box Case Boosted
+M4A1-S | Leaded Glass,28.35,0.561%,0.15904350000000003,Favor Box Case Boosted
+MAC-10 | Neon Rider,89.17,0.05%,0.044585,Favor Box Case Boosted
+MAC-10 | Neon Rider,52.79,0.04%,0.021116,Favor Box Case Boosted
+MAG-7 | Justice,84.0,0.05%,0.042,Favor Box Case Boosted
+MAG-7 | Justice,29.48,0.561%,0.16538280000000002,Favor Box Case Boosted
+MAG-7 | Justice,13.73,1.488%,0.2043024,Favor Box Case Boosted
+Five-SeveN | Heat Treated,64.43,0.449%,0.2892907,Favor Box Case Boosted
+Five-SeveN | Heat Treated,34.94,1.929%,0.6739926,Favor Box Case Boosted
+Five-SeveN | Heat Treated,29.27,0.836%,0.24469719999999998,Favor Box Case Boosted
+M4A4 | Spider Lily,55.31,0.04%,0.022124,Favor Box Case Boosted
+M4A4 | Spider Lily,27.17,0.561%,0.15242370000000002,Favor Box Case Boosted
+M4A4 | Spider Lily,19.45,1.044%,0.203058,Favor Box Case Boosted
+P2000 | Royal Baroque,27.43,0.562%,0.15415660000000003,Favor Box Case Boosted
+P2000 | Royal Baroque,20.87,1.045%,0.2180915,Favor Box Case Boosted
+P2000 | Royal Baroque,8.95,1.488%,0.133176,Favor Box Case Boosted
+SSG 08 | Blush Pour,26.75,1.456%,0.38948,Favor Box Case Boosted
+SSG 08 | Blush Pour,22.09,1.044%,0.23061959999999998,Favor Box Case Boosted
+SSG 08 | Blush Pour,9.24,1.489%,0.1375836,Favor Box Case Boosted
+AUG | Aristocrat,18.14,1.044%,0.1893816,Favor Box Case Boosted
+AUG | Aristocrat,8.19,1.488%,0.12186719999999998,Favor Box Case Boosted
+AUG | Aristocrat,3.7,2.586%,0.09568199999999999,Favor Box Case Boosted
+SCAR-20 | Enforcer,16.46,1.044%,0.1718424,Favor Box Case Boosted
+SCAR-20 | Enforcer,5.75,2.589%,0.14886749999999999,Favor Box Case Boosted
+SCAR-20 | Enforcer,1.89,2.586%,0.04887539999999999,Favor Box Case Boosted
+P90 | Wave Breaker,15.29,1.044%,0.15962759999999998,Favor Box Case Boosted
+P90 | Wave Breaker,5.54,2.586%,0.1432644,Favor Box Case Boosted
+P90 | Wave Breaker,2.1,2.586%,0.054306,Favor Box Case Boosted
+UMP-45 | Moonrise,11.8,1.488%,0.175584,Favor Box Case Boosted
+UMP-45 | Moonrise,3.95,2.586%,0.102147,Favor Box Case Boosted
+UMP-45 | Moonrise,2.52,2.586%,0.0651672,Favor Box Case Boosted
+Galil AR | Signal,10.5,1.488%,0.15624,Favor Box Case Boosted
+Galil AR | Signal,5.0,2.586%,0.1293,Favor Box Case Boosted
+Galil AR | Signal,3.4,2.586%,0.08792399999999999,Favor Box Case Boosted
+FAMAS | Teardown,10.04,1.488%,0.14939519999999998,Favor Box Case Boosted
+FAMAS | Teardown,5.75,2.589%,0.14886749999999999,Favor Box Case Boosted
+FAMAS | Teardown,2.1,2.586%,0.054306,Favor Box Case Boosted
+MP7 | Cirrus,5.21,2.586%,0.13473059999999998,Favor Box Case Boosted
+MP7 | Cirrus,2.14,2.586%,0.0553404,Favor Box Case Boosted
+MP7 | Cirrus,1.51,2.586%,0.039048599999999996,Favor Box Case Boosted
+Nova | Turquoise Pour,2.86,2.586%,0.07395959999999999,Favor Box Case Boosted
+Nova | Turquoise Pour,2.23,2.586%,0.05766779999999999,Favor Box Case Boosted
+Nova | Turquoise Pour,1.18,2.586%,0.030514799999999995,Favor Box Case Boosted
+SG 553 | Aloha,2.06,2.586%,0.053271599999999995,Favor Box Case Boosted
+SG 553 | Aloha,0.71,2.586%,0.018360599999999998,Favor Box Case Boosted
+SG 553 | Aloha,0.5,2.586%,0.012929999999999999,Favor Box Case Boosted
+MP9 | Nexus,2.06,2.586%,0.053271599999999995,Favor Box Case Boosted
+MP9 | Nexus,0.63,2.586%,0.0162918,Favor Box Case Boosted
+MP9 | Nexus,0.25,2.586%,0.006464999999999999,Favor Box Case Boosted
+PP-Bizon | Night Riot,1.6,2.586%,0.041375999999999996,Favor Box Case Boosted
+PP-Bizon | Night Riot,0.55,2.586%,0.014223,Favor Box Case Boosted
+PP-Bizon | Night Riot,0.38,2.586%,0.009826799999999998,Favor Box Case Boosted
+MP5-SD | Liquidation,1.64,2.586%,0.042410399999999994,Favor Box Case Boosted
+MP5-SD | Liquidation,0.5,2.586%,0.012929999999999999,Favor Box Case Boosted
+MP5-SD | Liquidation,0.21,2.586%,0.005430599999999999,Favor Box Case Boosted
+Bayonet | Marble Fade,3813.68,0.019%,0.7245991999999999,Surprise Party Case Boosted
+AK-47 | Vulcan,3267.98,0.015%,0.49019699999999994,Surprise Party Case Boosted
+AK-47 | Vulcan,1497.17,0.016%,0.23954720000000004,Surprise Party Case Boosted
+USP-S | Kill Confirmed,1171.97,0.016%,0.18751520000000002,Surprise Party Case Boosted
+USP-S | Kill Confirmed,508.07,0.016%,0.08129120000000001,Surprise Party Case Boosted
+USP-S | Kill Confirmed,319.91,0.02%,0.06398200000000001,Surprise Party Case Boosted
+M4A1-S | Cyrex,526.43,0.016%,0.08422879999999999,Surprise Party Case Boosted
+M4A1-S | Cyrex,224.53,0.02%,0.044906,Surprise Party Case Boosted
+Glock-18 | Bullet Queen,324.91,0.02%,0.06498200000000001,Surprise Party Case Boosted
+Glock-18 | Bullet Queen,114.58,0.066%,0.0756228,Surprise Party Case Boosted
+Nova | Hyper Beast,237.38,0.02%,0.047476000000000004,Surprise Party Case Boosted
+Nova | Hyper Beast,138.35,0.068%,0.09407800000000001,Surprise Party Case Boosted
+Five-SeveN | Angry Mob,224.62,0.02%,0.044924000000000006,Surprise Party Case Boosted
+Five-SeveN | Angry Mob,45.49,2.799%,1.2732651000000001,Surprise Party Case Boosted
+MAC-10 | Derailment,81.31,0.501%,0.4073631,Surprise Party Case Boosted
+MAC-10 | Derailment,57.46,1.044%,0.5998824,Surprise Party Case Boosted
+SG 553 | Integrale,102.19,0.066%,0.0674454,Surprise Party Case Boosted
+SG 553 | Integrale,42.55,1.128%,0.4799639999999999,Surprise Party Case Boosted
+SG 553 | Integrale,19.24,1.301%,0.25031239999999993,Surprise Party Case Boosted
+MP9 | Starlight Protector,79.67,0.1%,0.07967,Surprise Party Case Boosted
+MP9 | Starlight Protector,32.21,1.301%,0.4190521,Surprise Party Case Boosted
+AWP | POP AWP,75.22,0.1%,0.07522,Surprise Party Case Boosted
+AWP | POP AWP,39.86,1.128%,0.44962079999999993,Surprise Party Case Boosted
+AWP | POP AWP,34.19,1.304%,0.4458376,Surprise Party Case Boosted
+M4A4 | In Living Color,73.46,0.1%,0.07346,Surprise Party Case Boosted
+M4A4 | In Living Color,38.22,1.128%,0.43112159999999994,Surprise Party Case Boosted
+M4A4 | In Living Color,33.77,1.301%,0.4393477,Surprise Party Case Boosted
+M4A4 | In Living Color,30.07,1.301%,0.39121069999999997,Surprise Party Case Boosted
+P2000 | Wicked Sick,63.55,3.991%,2.5362805,Surprise Party Case Boosted
+P2000 | Wicked Sick,20.92,1.301%,0.2721692,Surprise Party Case Boosted
+P2000 | Wicked Sick,8.23,2.5%,0.20575000000000002,Surprise Party Case Boosted
+UMP-45 | Wild Child,62.54,1.044%,0.6529176,Surprise Party Case Boosted
+UMP-45 | Wild Child,20.92,1.301%,0.2721692,Surprise Party Case Boosted
+UMP-45 | Wild Child,8.19,2.5%,0.20475,Surprise Party Case Boosted
+MP7 | Bloodsport,36.88,1.128%,0.41600639999999994,Surprise Party Case Boosted
+MP7 | Bloodsport,15.88,2.5%,0.397,Surprise Party Case Boosted
+MP7 | Bloodsport,9.37,2.5%,0.23424999999999999,Surprise Party Case Boosted
+XM1014 | XOXO,22.68,1.301%,0.29506679999999996,Surprise Party Case Boosted
+XM1014 | XOXO,8.74,2.5%,0.21850000000000003,Surprise Party Case Boosted
+XM1014 | XOXO,8.61,2.5%,0.21525,Surprise Party Case Boosted
+MP5-SD | Acid Wash,12.18,2.5%,0.3045,Surprise Party Case Boosted
+MP5-SD | Acid Wash,7.6,2.5%,0.19,Surprise Party Case Boosted
+MP5-SD | Acid Wash,7.39,2.5%,0.18475,Surprise Party Case Boosted
+Sawed-Off | Analog Input,12.18,2.5%,0.3045,Surprise Party Case Boosted
+Sawed-Off | Analog Input,6.59,2.5%,0.16475,Surprise Party Case Boosted
+Sawed-Off | Analog Input,3.91,2.5%,0.09775,Surprise Party Case Boosted
+CZ75-Auto | Tacticat,12.85,2.5%,0.32125000000000004,Surprise Party Case Boosted
+CZ75-Auto | Tacticat,6.97,2.5%,0.17425000000000002,Surprise Party Case Boosted
+CZ75-Auto | Tacticat,2.69,2.5%,0.06725,Surprise Party Case Boosted
+G3SG1 | Stinger,12.73,2.5%,0.31825000000000003,Surprise Party Case Boosted
+G3SG1 | Stinger,4.83,2.5%,0.12075000000000001,Surprise Party Case Boosted
+G3SG1 | Stinger,2.14,2.5%,0.053500000000000006,Surprise Party Case Boosted
+PP-Bizon | Osiris,10.25,2.5%,0.25625000000000003,Surprise Party Case Boosted
+PP-Bizon | Osiris,5.42,2.5%,0.1355,Surprise Party Case Boosted
+PP-Bizon | Osiris,3.78,2.5%,0.0945,Surprise Party Case Boosted
+Galil AR | Signal,10.5,2.5%,0.2625,Surprise Party Case Boosted
+Galil AR | Signal,5.0,2.5%,0.125,Surprise Party Case Boosted
+Galil AR | Signal,3.4,2.5%,0.085,Surprise Party Case Boosted
+P90 | Teardown,11.26,2.5%,0.28150000000000003,Surprise Party Case Boosted
+P90 | Teardown,5.96,2.5%,0.149,Surprise Party Case Boosted
+P90 | Teardown,2.44,2.5%,0.061,Surprise Party Case Boosted
+MAG-7 | Monster Call,10.71,2.5%,0.26775000000000004,Surprise Party Case Boosted
+MAG-7 | Monster Call,3.65,2.5%,0.09125,Surprise Party Case Boosted
+MAG-7 | Monster Call,1.68,2.5%,0.042,Surprise Party Case Boosted
+Talon Knife | Fade,8301.51,0.019%,1.5772868999999998,Birthday Cake Case Boosted
+Sport Gloves | Vice,7006.99,0.02%,1.401398,Birthday Cake Case Boosted
+M4A1-S | Fade,2691.44,0.02%,0.538288,Birthday Cake Case Boosted
+AK-47 | Neon Rider,1229.3,0.02%,0.24586,Birthday Cake Case Boosted
+AK-47 | Neon Rider,472.08,0.025%,0.11802,Birthday Cake Case Boosted
+Glock-18 | Neo-Noir,1083.31,0.02%,0.216662,Birthday Cake Case Boosted
+Glock-18 | Neo-Noir,245.49,0.066%,0.1620234,Birthday Cake Case Boosted
+M4A4 | Temukau,608.5,0.025%,0.152125,Birthday Cake Case Boosted
+M4A4 | Temukau,208.57,0.066%,0.1376562,Birthday Cake Case Boosted
+AWP | Crakow!,407.19,0.025%,0.1017975,Birthday Cake Case Boosted
+Galil AR | Sugar Rush,371.11,0.025%,0.0927775,Birthday Cake Case Boosted
+Galil AR | Sugar Rush,255.19,0.068%,0.17352920000000002,Birthday Cake Case Boosted
+AK-47 | Point Disarray,180.43,4.487%,8.0958941,Birthday Cake Case Boosted
+AK-47 | Point Disarray,61.28,1.155%,0.707784,Birthday Cake Case Boosted
+MAC-10 | Neon Rider,89.17,5.29%,4.717093,Birthday Cake Case Boosted
+MAC-10 | Neon Rider,52.79,1.155%,0.6097245,Birthday Cake Case Boosted
+MP9 | Mount Fuji,77.91,4.423%,3.4459592999999997,Birthday Cake Case Boosted
+MP9 | Mount Fuji,51.91,1.155%,0.5995604999999999,Birthday Cake Case Boosted
+MP9 | Mount Fuji,28.94,1.973%,0.5709862,Birthday Cake Case Boosted
+P90 | Attack Vector,68.21,1.161%,0.7919181,Birthday Cake Case Boosted
+P90 | Attack Vector,43.26,1.155%,0.49965299999999996,Birthday Cake Case Boosted
+P90 | Attack Vector,28.73,1.973%,0.5668429,Birthday Cake Case Boosted
+AUG | Death by Puppy,65.1,1.155%,0.7519049999999999,Birthday Cake Case Boosted
+AUG | Death by Puppy,34.19,1.999%,0.6834581,Birthday Cake Case Boosted
+AUG | Death by Puppy,29.36,1.973%,0.5792728,Birthday Cake Case Boosted
+UMP-45 | Momentum,57.25,1.155%,0.6612374999999999,Birthday Cake Case Boosted
+UMP-45 | Momentum,30.37,1.973%,0.5992001,Birthday Cake Case Boosted
+UMP-45 | Momentum,20.41,1.973%,0.40268930000000003,Birthday Cake Case Boosted
+Sawed-Off | Wasteland Princess,52.92,1.155%,0.611226,Birthday Cake Case Boosted
+Sawed-Off | Wasteland Princess,27.09,1.973%,0.5344857000000001,Birthday Cake Case Boosted
+Sawed-Off | Wasteland Princess,15.12,1.973%,0.2983176,Birthday Cake Case Boosted
+Sawed-Off | Wasteland Princess,12.6,1.973%,0.248598,Birthday Cake Case Boosted
+Galil AR | Rocket Pop,47.88,1.155%,0.553014,Birthday Cake Case Boosted
+Galil AR | Rocket Pop,12.85,1.973%,0.2535305,Birthday Cake Case Boosted
+Galil AR | Rocket Pop,5.63,1.973%,0.11107990000000001,Birthday Cake Case Boosted
+MAG-7 | BI83 Spectrum,24.28,1.973%,0.47904440000000004,Birthday Cake Case Boosted
+MAG-7 | BI83 Spectrum,17.47,1.973%,0.3446831,Birthday Cake Case Boosted
+MAG-7 | BI83 Spectrum,8.27,1.973%,0.1631671,Birthday Cake Case Boosted
+MAG-7 | BI83 Spectrum,8.06,1.973%,0.15902380000000002,Birthday Cake Case Boosted
+P2000 | Wicked Sick,20.92,1.973%,0.41275160000000005,Birthday Cake Case Boosted
+P2000 | Wicked Sick,8.23,1.973%,0.16237790000000002,Birthday Cake Case Boosted
+P2000 | Wicked Sick,6.01,1.973%,0.1185773,Birthday Cake Case Boosted
+P2000 | Wicked Sick,5.92,1.973%,0.1168016,Birthday Cake Case Boosted
+Desert Eagle | Trigger Discipline,18.73,1.973%,0.3695429,Birthday Cake Case Boosted
+Desert Eagle | Trigger Discipline,8.02,1.973%,0.1582346,Birthday Cake Case Boosted
+Desert Eagle | Trigger Discipline,2.98,1.973%,0.058795400000000005,Birthday Cake Case Boosted
+SSG 08 | Fever Dream,16.97,1.973%,0.3348181,Birthday Cake Case Boosted
+SSG 08 | Fever Dream,8.57,1.973%,0.16908610000000002,Birthday Cake Case Boosted
+SSG 08 | Fever Dream,2.98,1.973%,0.058795400000000005,Birthday Cake Case Boosted
+CZ75-Auto | Tacticat,12.85,1.973%,0.2535305,Birthday Cake Case Boosted
+CZ75-Auto | Tacticat,6.97,1.973%,0.1375181,Birthday Cake Case Boosted
+CZ75-Auto | Tacticat,2.81,1.973%,0.055441300000000006,Birthday Cake Case Boosted
+CZ75-Auto | Tacticat,2.69,1.973%,0.0530737,Birthday Cake Case Boosted
+SCAR-20 | Wild Berry,10.37,1.973%,0.2046001,Birthday Cake Case Boosted
+SCAR-20 | Wild Berry,6.47,1.973%,0.1276531,Birthday Cake Case Boosted
+SCAR-20 | Wild Berry,4.07,1.973%,0.08030110000000001,Birthday Cake Case Boosted
+FAMAS | Teardown,10.04,1.973%,0.1980892,Birthday Cake Case Boosted
+FAMAS | Teardown,5.75,1.973%,0.1134475,Birthday Cake Case Boosted
+FAMAS | Teardown,2.1,1.973%,0.041433000000000005,Birthday Cake Case Boosted
+M249 | Downtown,8.19,1.973%,0.1615887,Birthday Cake Case Boosted
+M249 | Downtown,3.95,1.973%,0.0779335,Birthday Cake Case Boosted
+M249 | Downtown,1.85,1.973%,0.036500500000000005,Birthday Cake Case Boosted
+★ Rare Special Item ★,23464.31,0.01%,2.3464310000000004,Event Pinata Case Boosted
+★ Rare Special Item ★,20545.9,0.01%,2.05459,Event Pinata Case Boosted
+★ Rare Special Item ★,17264.02,0.01%,1.7264020000000002,Event Pinata Case Boosted
+★ Rare Special Item ★,11243.27,0.01%,1.124327,Event Pinata Case Boosted
+★ Rare Special Item ★,6777.5,0.01%,0.6777500000000001,Event Pinata Case Boosted
+★ Rare Special Item ★,5685.08,0.01%,0.568508,Event Pinata Case Boosted
+★ Rare Special Item ★,5215.1,0.01%,0.52151,Event Pinata Case Boosted
+★ Rare Special Item ★,5199.89,0.01%,0.519989,Event Pinata Case Boosted
+★ Rare Special Item ★,1923.64,0.05%,0.9618200000000001,Event Pinata Case Boosted
+Glock-18 | Fade,9145.37,0.01%,0.9145370000000002,Event Pinata Case Boosted
+AWP | CMYK,3463.91,0.01%,0.346391,Event Pinata Case Boosted
+AWP | CMYK,1627.79,0.05%,0.813895,Event Pinata Case Boosted
+M4A1-S | Player Two,1011.28,0.397%,4.0147816,Event Pinata Case Boosted
+M4A1-S | Player Two,578.59,3.705%,21.4367595,Event Pinata Case Boosted
+M4A1-S | Player Two,281.74,1.3%,3.6626200000000004,Event Pinata Case Boosted
+Desert Eagle | Ocean Drive,924.8,0.066%,0.610368,Event Pinata Case Boosted
+Desert Eagle | Ocean Drive,676.87,2.85%,19.290795,Event Pinata Case Boosted
+Desert Eagle | Ocean Drive,237.51,1.3%,3.0876300000000003,Event Pinata Case Boosted
+Five-SeveN | Hyper Beast,789.68,0.066%,0.5211888,Event Pinata Case Boosted
+Five-SeveN | Hyper Beast,296.94,1.303%,3.8691282,Event Pinata Case Boosted
+Five-SeveN | Hyper Beast,185.85,1.3%,2.4160500000000003,Event Pinata Case Boosted
+Galil AR | Rainbow Spoon,357.29,7.313%,26.128617700000003,Event Pinata Case Boosted
+Galil AR | Rainbow Spoon,279.89,1.3%,3.63857,Event Pinata Case Boosted
+P90 | Death by Kitty,305.97,1.3%,3.9776100000000008,Event Pinata Case Boosted
+Nova | Hyper Beast,237.38,1.3%,3.0859400000000003,Event Pinata Case Boosted
+Nova | Hyper Beast,138.35,1.586%,2.194231,Event Pinata Case Boosted
+SSG 08 | Turbo Peek,169.6,1.3%,2.2048,Event Pinata Case Boosted
+SSG 08 | Turbo Peek,87.78,1.562%,1.3711236,Event Pinata Case Boosted
+SSG 08 | Turbo Peek,54.89,1.562%,0.8573818,Event Pinata Case Boosted
+SSG 08 | Turbo Peek,51.41,1.562%,0.8030242,Event Pinata Case Boosted
+MAC-10 | Disco Tech,102.69,1.562%,1.6040178,Event Pinata Case Boosted
+MAC-10 | Disco Tech,90.01,1.562%,1.4059562,Event Pinata Case Boosted
+MAC-10 | Disco Tech,35.24,1.562%,0.5504488000000001,Event Pinata Case Boosted
+MP9 | Starlight Protector,98.28,1.562%,1.5351336,Event Pinata Case Boosted
+MP9 | Starlight Protector,79.67,1.562%,1.2444454,Event Pinata Case Boosted
+MP9 | Starlight Protector,43.22,1.562%,0.6750964,Event Pinata Case Boosted
+MP9 | Starlight Protector,32.21,1.562%,0.5031202,Event Pinata Case Boosted
+AUG | Momentum,97.9,1.562%,1.529198,Event Pinata Case Boosted
+AUG | Momentum,74.8,1.562%,1.168376,Event Pinata Case Boosted
+AUG | Momentum,30.74,1.562%,0.4801588,Event Pinata Case Boosted
+XM1014 | XOXO,57.71,1.562%,0.9014302000000001,Event Pinata Case Boosted
+XM1014 | XOXO,55.48,1.562%,0.8665976,Event Pinata Case Boosted
+AK-47 | Nightwish,82.57,1.562%,1.2897433999999999,Event Pinata Case Boosted
+AK-47 | Nightwish,40.03,1.562%,0.6252686000000001,Event Pinata Case Boosted
+AK-47 | Nightwish,31.33,1.562%,0.4893746,Event Pinata Case Boosted
+AK-47 | Nightwish,28.52,1.562%,0.4454824,Event Pinata Case Boosted
+SCAR-20 | Cardiac,81.65,1.562%,1.275373,Event Pinata Case Boosted
+SCAR-20 | Cardiac,41.75,1.562%,0.652135,Event Pinata Case Boosted
+SCAR-20 | Cardiac,22.64,1.562%,0.35363680000000003,Event Pinata Case Boosted
+M4A4 | In Living Color,73.46,1.562%,1.1474452,Event Pinata Case Boosted
+M4A4 | In Living Color,38.22,1.562%,0.5969964,Event Pinata Case Boosted
+M4A4 | In Living Color,33.77,1.562%,0.5274874,Event Pinata Case Boosted
+M4A4 | In Living Color,30.07,1.562%,0.4696934,Event Pinata Case Boosted
+MP5-SD | Phosphor,58.93,1.562%,0.9204866,Event Pinata Case Boosted
+MP5-SD | Phosphor,31.46,1.562%,0.49140520000000004,Event Pinata Case Boosted
+MP5-SD | Phosphor,24.32,1.562%,0.3798784,Event Pinata Case Boosted
+MP5-SD | Phosphor,19.19,1.562%,0.2997478,Event Pinata Case Boosted
+Galil AR | Chromatic Aberration,63.5,1.562%,0.99187,Event Pinata Case Boosted
+Galil AR | Chromatic Aberration,26.42,1.562%,0.41268040000000006,Event Pinata Case Boosted
+Galil AR | Chromatic Aberration,12.73,1.562%,0.1988426,Event Pinata Case Boosted
+P250 | Visions,58.72,1.562%,0.9172064,Event Pinata Case Boosted
+P250 | Visions,27.3,1.562%,0.426426,Event Pinata Case Boosted
+P250 | Visions,13.9,1.562%,0.217118,Event Pinata Case Boosted
+SG 553 | Pulse,48.38,1.562%,0.7556956,Event Pinata Case Boosted
+SG 553 | Pulse,22.43,1.562%,0.3503566,Event Pinata Case Boosted
+UMP-45 | Wild Child,62.54,1.562%,0.9768748,Event Pinata Case Boosted
+UMP-45 | Wild Child,40.03,1.562%,0.6252686000000001,Event Pinata Case Boosted
+UMP-45 | Wild Child,20.92,1.562%,0.3267704,Event Pinata Case Boosted
+UMP-45 | Wild Child,8.19,1.562%,0.12792779999999998,Event Pinata Case Boosted
+MP7 | Neon Ply,38.77,1.562%,0.6055874000000001,Event Pinata Case Boosted
+MP7 | Neon Ply,21.0,1.562%,0.32802,Event Pinata Case Boosted
+MP7 | Neon Ply,8.36,1.562%,0.13058319999999998,Event Pinata Case Boosted
+FAMAS | Bad Trip,27.97,1.562%,0.4368914,Event Pinata Case Boosted
+FAMAS | Bad Trip,13.57,1.562%,0.2119634,Event Pinata Case Boosted
+AWP | Dragon Lore,73907.57,0.006%,4.4344542,Golden Era Case Boosted
+★ Rare Special Item ★,104741.99,0.009%,9.4267791,Golden Era Case Boosted
+★ Rare Special Item ★,94818.57,0.006%,5.689114200000001,Golden Era Case Boosted
+★ Rare Special Item ★,87247.99,0.006%,5.2348794000000005,Golden Era Case Boosted
+★ Rare Special Item ★,45496.71,0.006%,2.7298026,Golden Era Case Boosted
+★ Rare Special Item ★,41317.75,0.006%,2.479065,Golden Era Case Boosted
+★ Rare Special Item ★,25404.2,0.006%,1.5242520000000002,Golden Era Case Boosted
+★ Rare Special Item ★,24675.67,0.006%,1.4805401999999999,Golden Era Case Boosted
+★ Rare Special Item ★,23464.31,0.006%,1.4078586000000002,Golden Era Case Boosted
+★ Rare Special Item ★,21392.36,0.006%,1.2835416000000002,Golden Era Case Boosted
+★ Rare Special Item ★,18153.07,0.006%,1.0891842,Golden Era Case Boosted
+★ Rare Special Item ★,13956.1,0.006%,0.837366,Golden Era Case Boosted
+★ Rare Special Item ★,13947.15,0.006%,0.836829,Golden Era Case Boosted
+★ Rare Special Item ★,11153.65,0.006%,0.669219,Golden Era Case Boosted
+AK-47 | Gold Arabesque,25560.53,0.006%,1.5336318,Golden Era Case Boosted
+M4A1-S | Knight,21019.61,0.006%,1.2611766,Golden Era Case Boosted
+Desert Eagle | Blaze,4530.83,0.025%,1.1327075,Golden Era Case Boosted
+M4A1-S | Printstream,4774.43,0.025%,1.1936075000000002,Golden Era Case Boosted
+M4A1-S | Printstream,3952.07,0.025%,0.9880175000000001,Golden Era Case Boosted
+M4A1-S | Printstream,2331.08,0.05%,1.16554,Golden Era Case Boosted
+M4A1-S | Printstream,1583.74,2.224%,35.2223776,Golden Era Case Boosted
+M4A4 | Daybreak,3088.18,0.05%,1.54409,Golden Era Case Boosted
+USP-S | Kill Confirmed,3748.71,0.025%,0.9371775,Golden Era Case Boosted
+USP-S | Kill Confirmed,1949.39,0.05%,0.9746950000000001,Golden Era Case Boosted
+AK-47 | Nouveau Rouge,1991.35,0.05%,0.995675,Golden Era Case Boosted
+AK-47 | Nouveau Rouge,920.22,1.842%,16.950452400000003,Golden Era Case Boosted
+AK-47 | Nouveau Rouge,417.69,2.081%,8.6921289,Golden Era Case Boosted
+AK-47 | Nouveau Rouge,135.11,1.53%,2.0671830000000004,Golden Era Case Boosted
+AK-47 | Nouveau Rouge,126.55,1.53%,1.936215,Golden Era Case Boosted
+Glock-18 | Neo-Noir,1430.56,4.661%,66.6784016,Golden Era Case Boosted
+Glock-18 | Neo-Noir,1083.31,3.626%,39.2808206,Golden Era Case Boosted
+Glock-18 | Neo-Noir,501.98,2.082%,10.451223599999999,Golden Era Case Boosted
+Five-SeveN | Hyper Beast,789.68,1.842%,14.545905600000001,Golden Era Case Boosted
+Five-SeveN | Hyper Beast,296.94,1.53%,4.543182000000001,Golden Era Case Boosted
+Five-SeveN | Hyper Beast,185.85,1.53%,2.843505,Golden Era Case Boosted
+Five-SeveN | Hyper Beast,181.86,1.53%,2.7824580000000005,Golden Era Case Boosted
+AUG | Sand Storm,495.1,2.081%,10.303030999999999,Golden Era Case Boosted
+AUG | Sand Storm,400.05,2.081%,8.3250405,Golden Era Case Boosted
+Galil AR | Rainbow Spoon,357.29,1.56%,5.573724,Golden Era Case Boosted
+Galil AR | Rainbow Spoon,279.89,1.53%,4.282317,Golden Era Case Boosted
+P250 | Apep's Curse,467.42,2.081%,9.7270102,Golden Era Case Boosted
+P250 | Apep's Curse,271.11,1.53%,4.147983000000001,Golden Era Case Boosted
+P250 | Apep's Curse,163.63,1.53%,2.503539,Golden Era Case Boosted
+AWP | Elite Build,301.06,1.53%,4.606218,Golden Era Case Boosted
+AWP | Elite Build,185.09,1.53%,2.8318770000000004,Golden Era Case Boosted
+AWP | Elite Build,141.67,1.53%,2.167551,Golden Era Case Boosted
+AWP | Elite Build,111.43,1.53%,1.7048790000000003,Golden Era Case Boosted
+AWP | Elite Build,93.2,1.53%,1.4259600000000001,Golden Era Case Boosted
+P2000 | Fire Elemental,235.16,1.53%,3.597948,Golden Era Case Boosted
+P2000 | Fire Elemental,82.61,1.53%,1.263933,Golden Era Case Boosted
+P2000 | Fire Elemental,54.64,1.53%,0.8359920000000001,Golden Era Case Boosted
+SG 553 | Colony IV,231.76,1.53%,3.545928,Golden Era Case Boosted
+SG 553 | Colony IV,113.57,1.53%,1.737621,Golden Era Case Boosted
+SG 553 | Colony IV,53.84,1.53%,0.8237520000000002,Golden Era Case Boosted
+SG 553 | Colony IV,37.51,1.53%,0.573903,Golden Era Case Boosted
+M4A1-S | Leaded Glass,224.15,1.53%,3.429495,Golden Era Case Boosted
+M4A1-S | Leaded Glass,182.83,1.53%,2.797299,Golden Era Case Boosted
+M4A1-S | Leaded Glass,106.22,1.53%,1.625166,Golden Era Case Boosted
+M4A1-S | Leaded Glass,43.55,1.53%,0.666315,Golden Era Case Boosted
+M4A1-S | Leaded Glass,28.35,1.53%,0.43375500000000006,Golden Era Case Boosted
+MP7 | Nemesis,203.7,1.53%,3.11661,Golden Era Case Boosted
+MP7 | Nemesis,97.9,1.53%,1.4978700000000003,Golden Era Case Boosted
+MP7 | Nemesis,42.17,1.53%,0.645201,Golden Era Case Boosted
+MP7 | Nemesis,36.67,1.53%,0.5610510000000001,Golden Era Case Boosted
+FAMAS | Commemoration,173.17,1.53%,2.649501,Golden Era Case Boosted
+FAMAS | Commemoration,137.68,1.53%,2.106504,Golden Era Case Boosted
+FAMAS | Commemoration,94.16,1.53%,1.4406480000000002,Golden Era Case Boosted
+FAMAS | Commemoration,53.26,1.53%,0.814878,Golden Era Case Boosted
+FAMAS | Commemoration,37.67,1.53%,0.5763510000000001,Golden Era Case Boosted
+M4A4 | Sheet Lightning,168.92,1.53%,2.584476,Golden Era Case Boosted
+M4A4 | Sheet Lightning,110.25,1.53%,1.686825,Golden Era Case Boosted
+M4A4 | Sheet Lightning,31.37,1.53%,0.479961,Golden Era Case Boosted
+MAC-10 | Disco Tech,102.69,1.53%,1.5711570000000001,Golden Era Case Boosted
+MAC-10 | Disco Tech,90.01,1.53%,1.377153,Golden Era Case Boosted
+MAC-10 | Disco Tech,41.83,1.53%,0.639999,Golden Era Case Boosted
+MAC-10 | Disco Tech,35.24,1.53%,0.5391720000000001,Golden Era Case Boosted
+MP9 | Starlight Protector,98.28,1.53%,1.503684,Golden Era Case Boosted
+MP9 | Starlight Protector,79.67,1.53%,1.2189510000000001,Golden Era Case Boosted
+MP9 | Starlight Protector,32.21,1.53%,0.49281300000000006,Golden Era Case Boosted
+CZ75-Auto | Yellow Jacket,99.75,1.53%,1.526175,Golden Era Case Boosted
+CZ75-Auto | Yellow Jacket,48.89,1.53%,0.748017,Golden Era Case Boosted
+CZ75-Auto | Yellow Jacket,26.42,1.53%,0.40422600000000003,Golden Era Case Boosted
+CZ75-Auto | Yellow Jacket,24.11,1.53%,0.368883,Golden Era Case Boosted

@@ -1,0 +1,12 @@
+case_name_x,case_price,case_link,case_total_expected_value,case_name_y,Difference
+Favor Box Case,4.2,/case/favor-box-case,3.6223408,Favor Box Case,-0.5776592000000003
+favor-box-case,8.4,/case/favor-box-case-boosted,7.247712600000002,Favor Box Case Boosted,-1.1522873999999987
+Surprise Party Case,10.5,/case/surprise-party-case,9.0953475,Surprise Party Case,-1.4046524999999992
+surprise-party-case,21.0,/case/surprise-party-case-boosted,18.198982000000008,Surprise Party Case Boosted,-2.801017999999992
+Birthday Cake Case,21.0,/case/birthday-cake-case,18.1172509,Birthday Cake Case,-2.8827491000000016
+birthday-cake-case,42.0,/case/birthday-cake-case-boosted,36.4576634,Birthday Cake Case Boosted,-5.542336599999999
+Piñata Case,84.0,/case/event-pinata-case,73.16763019999999,Event Pinata Case,-10.83236980000001
+event-pinata-case,168.0,/case/event-pinata-case-boosted,146.21498519999997,Event Pinata Case Boosted,-21.785014800000027
+Golden Era Case,210.0,/case/golden-era-case,182.82259050000005,Golden Era Case,-27.177409499999953
+golden-era-case,420.0,/case/golden-era-case-boosted,364.3233995,Golden Era Case Boosted,-55.676600500000006
+Daily Case,,/case/daily-case,0.1477223,Daily Case,

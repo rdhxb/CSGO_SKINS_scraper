@@ -1,0 +1,12 @@
+case_name_x,case_price,case_link,case_total_expected_value,case_name_y
+Birthday Cake Case,21.00zł,/case/birthday-cake-case,18.1172509,Birthday Cake Case
+birthday-cake-case,42.00zł,/case/birthday-cake-case-boosted,36.4576634,Birthday Cake Case Boosted
+Daily Case,Free,/case/daily-case,0.1477223,Daily Case
+Piñata Case,84.00zł,/case/event-pinata-case,73.16763019999999,Event Pinata Case
+event-pinata-case,168.00zł,/case/event-pinata-case-boosted,146.21498519999997,Event Pinata Case Boosted
+Favor Box Case,4.20zł,/case/favor-box-case,3.6223408,Favor Box Case
+favor-box-case,8.40zł,/case/favor-box-case-boosted,7.247712600000002,Favor Box Case Boosted
+Golden Era Case,210.00zł,/case/golden-era-case,182.82259050000005,Golden Era Case
+golden-era-case,420.00zł,/case/golden-era-case-boosted,364.3233995,Golden Era Case Boosted
+Surprise Party Case,10.50zł,/case/surprise-party-case,9.0953475,Surprise Party Case
+surprise-party-case,21.00zł,/case/surprise-party-case-boosted,18.198982000000008,Surprise Party Case Boosted
